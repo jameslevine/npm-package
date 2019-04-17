@@ -6,4 +6,10 @@ All you need to do is call the function stringReplacer with an argument includin
 
 `stringReplacer(yourString)`
 
+I have also published this module on the NPM registry too.
+
+Visit [here](https://www.npmjs.com/package/@jameslevine/npmpackage) to see the package live on the NPM registry.
+
+To install the package, run `npm i @jameslevine/npmpackage`.
+
 Enjoy!
